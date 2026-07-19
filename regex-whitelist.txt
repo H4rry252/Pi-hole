@@ -5,3 +5,9 @@
 (\.|^)(reddit|redditmedia|redditspace|redditstatic|redditshare)\.com$
 # Reddit Kurzlinks / Bilder (redd.it inkl. preview.redd.it etc.)
 (\.|^)redd\.it$
+
+# LinkedIn
+(\.|^)linkedin\.com$
+# LinkedIn Content Delivery Networ
+(\.|^)licdn\.com$
+
