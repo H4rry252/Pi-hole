@@ -1,0 +1,7 @@
+### REGEX ALLOW (includes Wildcard Domains) ###
+# Whitelisting of specific wildcard domains based on your household needs
+
+# Reddit (Web, Media, Static, Space, Share)
+(\.|^)(reddit|redditmedia|redditspace|redditstatic|redditshare)\.com$
+# Reddit Kurzlinks / Bilder (redd.it inkl. preview.redd.it etc.)
+(\.|^)redd\.it$
