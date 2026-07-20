@@ -11,3 +11,12 @@
 # LinkedIn Content Delivery Networ
 (\.|^)licdn\.com$
 
+# Twitch (Web, Streaming, CDNs)
+(\.|^)twitch\.tv$
+(\.|^)twitchcdn\.net$
+(\.|^)ttvnw\.net$
+(\.|^)live-video\.net$
+(\.|^)jtvnw\.net$
+
+# Oculus -Meta Quest Link
+(\.|^)graph\.oculus\.com$
