@@ -20,3 +20,7 @@
 
 # Oculus -Meta Quest Link
 (\.|^)graph\.oculus\.com$
+
+# WhatsApp
+(\.|^)cdn.whatsapp\.net$
+(\.|^)whatsapp\.com$
