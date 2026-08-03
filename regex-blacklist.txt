@@ -1,5 +1,5 @@
 ### REGEX DENY (includes Wildcard Domains) ###
-# Blocklisting of specific wildcard domains based on your household needs
+# Blacklisting of specific wildcard domains based on your household needs
 
 MS Telemetry (added via Claude)
 (^|\.)events\.data\.microsoft\.com$
