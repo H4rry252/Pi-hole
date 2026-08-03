@@ -1,5 +1,5 @@
 ### DENY ###
-# Blocklisting of specific domains based on your household needs
+# Blacklisting of specific domains based on your household needs
 
 #MSN
 arc.msn.com
