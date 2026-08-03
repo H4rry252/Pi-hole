@@ -1,1 +1,9 @@
+### REGEX DENY (includes Wildcard Domains) ###
+# Blocklisting of specific wildcard domains based on your household needs
 
+MS Telemetry (added via Claude)
+(^|\.)events\.data\.microsoft\.com$
+
+Intercom tracking and CDN (added via Claude)
+(^|\.)intercom\.io$
+(^|\.)intercomcdn\.com$
