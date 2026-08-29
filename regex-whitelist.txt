@@ -22,5 +22,6 @@
 (\.|^)graph\.oculus\.com$
 
 # WhatsApp
-(\.|^)cdn.whatsapp\.net$
 (\.|^)whatsapp\.com$
+(\.|^)whatsapp\.net$
+
