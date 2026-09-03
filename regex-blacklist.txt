@@ -8,5 +8,5 @@ Intercom tracking and CDN (added via Claude)
 (^|\.)intercom\.io$
 (^|\.)intercomcdn\.com$
 
-# Stripchat
-(^|\.)stripchat\.com$
+# Stripchat Alternatives
+(^|\.)goldensacam\.com$
