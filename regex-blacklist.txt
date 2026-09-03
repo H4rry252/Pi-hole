@@ -7,3 +7,6 @@ MS Telemetry (added via Claude)
 Intercom tracking and CDN (added via Claude)
 (^|\.)intercom\.io$
 (^|\.)intercomcdn\.com$
+
+# Stripchat
+(^|\.)stripchat\.com$
