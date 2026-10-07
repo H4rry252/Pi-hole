@@ -19,6 +19,7 @@
 (\.|^)jtvnw\.net$
 
 # Oculus -Meta Quest Link
+(\.|^)graph\.facebook\.com$
 (\.|^)graph\.oculus\.com$
 
 # WhatsApp
