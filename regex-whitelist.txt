@@ -8,7 +8,7 @@
 
 # LinkedIn
 (\.|^)linkedin\.com$
-# LinkedIn Content Delivery Networ
+# LinkedIn Content Delivery Network
 (\.|^)licdn\.com$
 
 # Twitch (Web, Streaming, CDNs)
@@ -18,9 +18,10 @@
 (\.|^)live-video\.net$
 (\.|^)jtvnw\.net$
 
-# Oculus -Meta Quest Link
+# Oculus - Meta Quest Link and Stream
 (\.|^)graph\.facebook\.com$
 (\.|^)graph\.oculus\.com$
+(\.|^)gateway\.facebook\.com$
 
 # WhatsApp
 (\.|^)whatsapp\.com$
